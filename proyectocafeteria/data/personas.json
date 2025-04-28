@@ -1,0 +1,31 @@
+{
+    "personas": [
+        {
+            "tipo": "Cliente",
+            "nombre": "Ana",
+            "edad": 45,
+            "telefono": "11111111"
+        },
+        {
+            "tipo": "Empleado",
+            "nombre": "Luis",
+            "edad": 30,
+            "telefono": "33",
+            "puesto": "gerente"
+        },
+        {
+            "tipo": "Empleado",
+            "nombre": "Jack",
+            "edad": 0,
+            "telefono": "12345",
+            "puesto": "gerente"
+        },
+        {
+            "tipo": "Empleado",
+            "nombre": "ja",
+            "edad": 0,
+            "telefono": "12456",
+            "puesto": "Cliente"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "productos": [
+        {
+            "tipo": "Bebida",
+            "producto": "Caf\u00e9",
+            "precio": 45.0,
+            "sabor": "Fuerte",
+            "tama\u00f1o": "Grande",
+            "personalizables": [
+                "Leche",
+                "Az\u00facar"
+            ],
+            "cantidad": 0
+        },
+        {
+            "tipo": "Postre",
+            "producto": "Pastel",
+            "precio": 3.5,
+            "azucar": true,
+            "sinazucar": false,
+            "cantidad": 0
+        }
+    ]
+}
