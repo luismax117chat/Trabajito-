@@ -1,2 +1,1 @@
-aqui esta mi archivo de .exe auto ejectuable porque era muy pesado https://drive.google.com/file/d/1eJdJrJQqhrrcYC9zwWZaqtwKZ_VBP5OL/view?usp=sharing
-
+aqui esta mi archivo de .exe auto ejectuable porque era muy pesado https://drive.google.com/file/d/1eJdJrJQqhrrcYC9zwWZaqtwKZ_VBP5OL/view?usp=sharing ,porfavor descargar luego dar click derecho y luego extraer cafeteria_app_final y luego ejecutar e cafeteriafront .exe
